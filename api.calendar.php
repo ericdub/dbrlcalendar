@@ -40,6 +40,7 @@
 define('DATABASE','pdb');
 require_once ('/home/www/www.dbrl.org/connect.php');
 require_once ('common/common.php');
+/*
 
 /*require_once('FirePHPCore/FirePHP.class.php');
 //ob_start();
